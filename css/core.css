@@ -239,8 +239,8 @@ section.page5 .wrapper_content  h2{
 	display: block;
 	margin-top: 0;
 	margin-bottom: 0;
-	text-align: left;
-	font-size: 2em;
+	text-align: center;
+	font-size: 3em;
 	padding: 0;
 }
 
@@ -248,7 +248,7 @@ section.page5 .wrapper_content  ol{
 	display: block;
 	margin-top: 20px;
 	margin-left: 40px;
-	font-size: 1em;
+	font-size: 2em;
 	padding: 0;
 }
 
@@ -256,6 +256,6 @@ section.page5 .wrapper_content  p{
 	display: block;
 	margin-top: 20px;
 	margin-left: 40px;
-	font-size: 1em;
+	font-size: 2em;
 	padding: 0;
 }
